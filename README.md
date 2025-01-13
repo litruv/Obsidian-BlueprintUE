@@ -33,4 +33,5 @@ For issues and feature requests, please visit the [GitHub repository](https://gi
 ## Credits
 
 Developed by [Litruv](https://lit.ruv.wtf)
-[BlueprintUE](https://blueprintue.com/) is created by [CodePixel](https://codepixel.dev/)
+
+[BlueprintUE](https://blueprintue.com/) is created by [rancoud](https://github.com/rancoud)
