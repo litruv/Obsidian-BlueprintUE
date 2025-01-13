@@ -1,0 +1,10 @@
+{
+	"id": "blueprintue",
+	"name": "BlueprintUE Embed",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Embed BlueprintUE renderings seamlessly within your Obsidian notes.",
+	"author": "Litruv",
+	"authorUrl": "https://lit.ruv.wtf",
+	"isDesktopOnly": false
+}
